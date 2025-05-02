@@ -7,7 +7,6 @@ Currently, I’m at Zee Media Corporation Limited, where I streamline product de
 - 🌍  I'm based in New Delhi, India.
 - ✉️  You can contact me at [vipinwap07@gmail.com](mailto:vipinwap07@gmail.com)
 - 🧑🏻‍💻  I'm learning Backend Web development
-<!-- * 🖥️  See my portfolio at [DevFolio](http://vipinwap07.vercel.app/) -->
 
 ### Skills
 
@@ -38,7 +37,7 @@ Currently, I’m at Zee Media Corporation Limited, where I streamline product de
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django/python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
