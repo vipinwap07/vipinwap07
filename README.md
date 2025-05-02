@@ -1,5 +1,3 @@
-![Vipin's Banner](https://res.cloudinary.com/vipinwap07/image/upload/v1746017870/banner_swwyff.gif)
-
 # Hi, I'm Vipin! 👋
 
 ### About me
@@ -74,6 +72,10 @@ Currently, I’m at Zee Media Corporation Limited, where I streamline product de
         </picture>
     </a>
 </p>
+
+![Vipin's Banner](https://res.cloudinary.com/vipinwap07/image/upload/v1746017870/banner_swwyff.gif)
+
+###
 
 <img src="https://raw.githubusercontent.com/vipinwap07/vipinwap07/output/snake.svg" alt="Snake animation" />
 
