@@ -6,7 +6,7 @@ Currently, I’m at Zee Media Corporation Limited, where I streamline product de
 
 - 🌍  I'm based in New Delhi, India.
 - ✉️  You can contact me at [vipinwap07@gmail.com](mailto:vipinwap07@gmail.com)
-- 🧠  I'm learning Backend Web development
+- 🧑🏻‍💻  I'm learning Backend Web development
 <!-- * 🖥️  See my portfolio at [DevFolio](http://vipinwap07.vercel.app/) -->
 
 ### Skills
