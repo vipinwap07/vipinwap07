@@ -76,6 +76,7 @@ Currently, I’m at Zee Media Corporation Limited, where I streamline product de
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vipinwap07&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+<br clear="both">
 
 ![Vipin's Banner](https://res.cloudinary.com/vipinwap07/image/upload/v1746017870/banner_swwyff.gif)
 
