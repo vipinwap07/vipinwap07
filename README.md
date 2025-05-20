@@ -1,4 +1,5 @@
 # Hi, I'm Vipin! 👋
+<p style="font-size:14px">React JS Developer | Frontend Developer</p>
 
 I’m always eager to learn new tech stacks to overcome challenges across various domains. I specialize in ReactJS and NextJS, with a strong passion for open source and frontend infrastructure. I often describe my work as the “backend of the frontend” — designing architecture, creating smooth and scalable developer experiences, and building tooling and processes that empower frontend teams to move faster with confidence.
 
