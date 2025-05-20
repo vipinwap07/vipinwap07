@@ -43,7 +43,7 @@ Currently, I’m at Zee Media Corporation Limited, where I streamline product de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+<br clear="both">
 
 ### Socials
 
@@ -71,6 +71,12 @@ Currently, I’m at Zee Media Corporation Limited, where I streamline product de
     </a>
 </p>
 
+<br clear="both">
+
+### GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vipinwap07&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+
 ![Vipin's Banner](https://res.cloudinary.com/vipinwap07/image/upload/v1746017870/banner_swwyff.gif)
 
 ###
@@ -90,6 +96,11 @@ Currently, I’m at Zee Media Corporation Limited, where I streamline product de
 <a href="http://www.github.com/vipinwap07">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinwap07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
+
+<br clear="both">
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- ### Support Me
 
