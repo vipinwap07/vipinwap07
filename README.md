@@ -9,10 +9,9 @@ Currently, I’m at Zee Media Corporation Limited, where I streamline product de
 - ✉️  You can contact me at [vipinwap07@gmail.com](mailto:vipinwap07@gmail.com)
 - 🧑🏻‍💻  I'm learning Backend Web development
 
+###
+
 ### Skills
-
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -43,68 +42,44 @@ Currently, I’m at Zee Media Corporation Limited, where I streamline product de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<br clear="both">
-
-### Socials
-
-<p align="left">
-    <a href="https://www.github.com/vipinwap07" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/vipinwap07/" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://www.x.com/vipinwap07" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-        </picture>
-    </a>
-</p>
-
-<br clear="both">
+###
 
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vipinwap07&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<br clear="both">
+###
 
-![Vipin's Banner](https://res.cloudinary.com/vipinwap07/image/upload/v1746017870/banner_swwyff.gif)
+### GitHub Statistics
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/vipinwap07">
+        <img src="https://github-readme-stats.vercel.app/api?username=vipinwap07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vipin's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="http://www.github.com/vipinwap07">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinwap07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ###
 
 <img src="https://raw.githubusercontent.com/vipinwap07/vipinwap07/output/snake.svg" alt="Snake animation" />
 
-###
+![Vipin's Banner](https://res.cloudinary.com/vipinwap07/image/upload/v1746017870/banner_swwyff.gif)
 
 ###
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/vipinwap07">
-    <img src="https://github-readme-stats.vercel.app/api?username=vipinwap07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vipin's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/vipinwap07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinwap07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<br clear="both">
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- ### Support Me
+###
 
+<!-- ### Support Me
 <a href="https://www.buymeacoffee.com/vipinwap07">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
 </a> -->
